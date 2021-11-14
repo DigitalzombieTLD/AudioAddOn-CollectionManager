@@ -30,7 +30,7 @@ If any event got multiple clips, it will be choosen on random which one gets pla
 
 A custom [music collection] works almost the same way. Difference: Events without custom clips will play the original music.
 
-Custom [radio collections] determine which audio is player on the radio during the aurora.
+Custom [radio collections] determine which audio is played on the radio during an active aurora.
 
 # Which file formats are supported?
 At this time only .ogg files are supported. Please use only mono files, as stereo would mess with the 3D effects ingame.
