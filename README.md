@@ -23,8 +23,8 @@ Say for example: You want to change what Mackenzie/Astrid say when picking up an
 Any "event" that got no clip in this category, won't have any voicelines anymore. You don't need to have
 clips for every single event, but you don't need different voices playing when mixing them with the originals either.
 
-There is no distinction between male and female collections. You can choose it independent of your character choice in
-the ingame modsettings menu.
+There is no distinction between male and female collections. You can choose the active collection, independently of your 
+character choice, in the ingame modsettings menu.
 
 If any event got multiple clips, it will be choosen on random which one gets played ingame.
 
