@@ -21,7 +21,10 @@ We've got different categories of audio. Voice / Music / Radio
 A custom [voice collection] overwrites any voiceover line of the character ingame.
 Say for example: You want to change what Mackenzie/Astrid say when picking up an object, you can do that.
 Any "event" that got no clip in this category, won't have any voicelines anymore. You don't need to have
-clips for every single event, but you don't need different voices playing when mixing them with the originals.
+clips for every single event, but you don't need different voices playing when mixing them with the originals either.
+
+There is no distinction between male and female collections. You can choose it independent of your character choice in
+the ingame modsettings menu.
 
 If any event got multiple clips, it will be choosen on random which one gets played ingame.
 
