@@ -51,3 +51,9 @@ Folder structure can be created/changed manually. This tool is not strictly necc
 
 # Known bugs
 - List of audio clips doesn't always update correctly after adding a new clip. Click the open button of the event again to update it manually.
+
+# Links
+My YouTube channel: https://www.youtube.com/channel/UCYRu_uDOzozbXIXKGrznHxQ
+Me on reddit: https://www.reddit.com/user/DigiZombie
+TLD modlist: https://xpazeman.com/tld-mod-list/
+The TLD modding Discord: https://discord.gg/AqpW9TjUfr
