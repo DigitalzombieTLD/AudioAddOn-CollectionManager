@@ -6,6 +6,8 @@ Tool to manage audio collections for TLD
 - AudioCore Plugin: https://github.com/DigitalzombieTLD/AudioCore
 - AudioAddOn Mod: TBD
 
+![alt text](https://github.com/DigitalzombieTLD/AudioAddOn-CollectionManager/blob/main/CollectionManager_HowTo.jpg)
+
 # What is it?
 This tool can help you to create & manage installed "audio collections" for the TLD mod "AudioAddOn".
 
