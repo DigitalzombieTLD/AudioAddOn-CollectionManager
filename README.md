@@ -7,7 +7,7 @@ Tool to manage audio collections for TLD
 - AudioAddOn Mod: TBD
 
 # What is it?
-This tool can help you to manage installed "audio collections" for the TLD mod "AudioAddOn".
+This tool can help you to create & manage installed "audio collections" for the TLD mod "AudioAddOn".
 
 # What are audio collections?
 Audio collections help in sorting audioclips for different audio categories. 
