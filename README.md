@@ -54,6 +54,9 @@ Folder structure can be created/changed manually. This tool is not strictly necc
 
 # Links
 My YouTube channel: https://www.youtube.com/channel/UCYRu_uDOzozbXIXKGrznHxQ
+
 Me on reddit: https://www.reddit.com/user/DigiZombie
+
 TLD modlist: https://xpazeman.com/tld-mod-list/
-The TLD modding Discord: https://discord.gg/AqpW9TjUfr
+
+Support on the TLD modding Discord: https://discord.gg/AqpW9TjUfr
